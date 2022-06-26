@@ -15,3 +15,8 @@ In this GitHub Repo, we have added following files for the community:
 **Classification_Ablation_Study.py :** This code summarizes the ablation study of different types of clinical features used in the study.
 
 **Classification_ParamOptimize.py  :** This code summarizes the parameter optimization of ML models
+
+# Citation 
+================
+
+A Machine Learning Based Study to Assess Bone Health in a Diabetic Cohort; Saleh Musleh, Anjanarani Nazeemudeen, Mohammad Tariqul Islam, Nady El Hajj, Tanvir Alam;
