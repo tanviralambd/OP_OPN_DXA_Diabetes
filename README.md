@@ -10,11 +10,11 @@ early detection of OP/OPN in diabetic patients.
 In this GitHub Repo, we have added following files for the community:
 ======================================================================
 
-**  1. Classifiction_LogLoss_and_MSE.py : ** This code summarizes the machine learning models used in our study. We also used mulitple evaluation metric to check the effectiveness of ML models.
+**1. Classifiction_LogLoss_and_MSE.py :**  This code summarizes the machine learning models used in our study. We also used mulitple evaluation metric to check the effectiveness of ML models.
 
 **2. Classification_Ablation_Study.py :** This code summarizes the ablation study of different types of clinical features used in the study.
 
-** 3. Classification_ParamOptimize.py  :** This code summarizes the parameter optimization of ML models
+**3. Classification_ParamOptimize.py :**  This code summarizes the parameter optimization of ML models
 
 # Citation 
 
