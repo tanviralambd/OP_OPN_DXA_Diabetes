@@ -1,12 +1,8 @@
 # OP_OPN_DXA_Diabetes
 ML Model for Osteoporosis and Osteopenia in Daibetes Cohort
 
-# A Machine Learning Based Study to Assess Bone Health in a Diabetic Cohort 
-Diabetes mellitus (DM) and osteoporosis/osteopenia affect millions of people globally and are major health conditions in 
-several countries including Qatar. Bone mineral density (BMD) is a widely accepted indicator for diagnosing osteoporosis (OP) 
-and osteopenia (OPN). The best method for determining bone mineral density and OP/OPN risk is via dual energy X-ray absorp-tiometry (DXA) technology. 
-The risk of osteoporosis-related fracture may increase for people with diabetes. Therefore, it is necessary to develop a system that can support the 
-early detection of OP/OPN in diabetic patients. 
+# Machine Learning-Based Study to Assess Bone Health in a Diabetic Cohort 
+This repository contains the source codes used for diagnosing osteoporosis (OP) and osteopenia (OPN) in Diabetes mellitus (DM)  patients. 
 
 # Content
 
